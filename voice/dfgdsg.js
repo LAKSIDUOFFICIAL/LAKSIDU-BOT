@@ -47,7 +47,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
             if (msg.message.extendedTextMessage.contextInfo && msg.message.extendedTextMessage.contextInfo.stanzaId === vv.key.id) {
                 switch (selectedOption) {
                     case '1':
-                        reply(`*ALL COMMAND SEND .MENU*
+                        reply(`*🩸⃟༑ALL COMMAND SEND .MENU🩸⃟*
+🩸⃟༑⌁⃰⃰🅠🅤🅔🅔🅝 🅘🅢🅗🅤 🅜🅓梨🐉
 ╭━❮ 𝙲𝙾𝙽𝚅𝙴𝚁𝚃𝙴𝚁 ❯━╮
 ┃✰ .𝚂𝚝𝚒𝚌𝚔𝚎𝚛
 ╰━━━━━━━━━━━━━━━⪼
